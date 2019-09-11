@@ -5,8 +5,8 @@ Pre-requisites:
 
 MS Excel should be installed
 Macros should be enabled
-Usage:
 
+Usage:
 The tool is fairly simple to use. Follow the sequence:
 
 Provide the number of input parameters in “NumberOfParams” sheet. Click on Proceed.
